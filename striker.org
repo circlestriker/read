@@ -8,3 +8,7 @@
 尝试一下时间管理。
 昨天踢球后喝酒聚餐花了三小时，本可以不喝酒一小时聚餐即可。
 今天：建“消除焦虑、失眠分享交流”群；文章一篇“残缺胜完美”；开始用git践行时间管理法
+
+day22:
+https://www.jianshu.com/p/f653556ebeeb  Pocket Git 是 Android 手机上一个 Git 客户端工具
+苹果用户看这里：https://www.appinn.com/source-git-client-code-editor/
